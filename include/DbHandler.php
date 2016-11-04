@@ -1647,17 +1647,6 @@ class DbHandler {
                 return $response;
                 break;
         }
-
-
-
-       
-
     }
-
- 
-
-
-
-  
 }
 ?>
